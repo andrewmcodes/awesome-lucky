@@ -4,14 +4,14 @@ A categorized community-driven collection of awesome Ruby libraries, tools, fram
 
 ## Project Page
 
-[github repo](https://github.com/luckyframework/lucky)
-[website](https://luckyframework.org/)
+- [github repo](https://github.com/luckyframework/lucky)
+- [website](https://luckyframework.org/)
 
 ## Blog Posts
 
-[Thoughtbot Blog Post](https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot)
+- [Thoughtbot Blog Post](https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot)
 
 ## Paul Smith
 
-[Github Profile](https://github.com/paulcsmith)
-[Paul Smith on Medium](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
+- [Github Profile](https://github.com/paulcsmith)
+- [Paul Smith on Medium](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
