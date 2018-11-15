@@ -2,7 +2,7 @@
 
 # Awesome Lucky on Crystal
 
-A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software.
+A categorized community-driven collection of awesome Lucky libraries, tools, frameworks and software.
 
 ## Contents
 
