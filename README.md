@@ -4,8 +4,8 @@ A categorized community-driven collection of awesome Ruby libraries, tools, fram
 
 ## Project Page
 
-- [github repo](https://github.com/luckyframework/lucky)
-- [website](https://luckyframework.org/)
+- [Github Repo](https://github.com/luckyframework/lucky)
+- [Website](https://luckyframework.org/)
 
 ## Blog Posts
 
