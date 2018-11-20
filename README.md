@@ -2,7 +2,7 @@
 
 # Awesome Lucky on Crystal
 
-A categorized community-driven collection of awesome Lucky libraries, tools, frameworks and software.
+A categorized community-driven collection of awesome Lucky libraries, tools, resources.
 
 ## Contents
 
@@ -28,4 +28,5 @@ A categorized community-driven collection of awesome Lucky libraries, tools, fra
 
 # Tutorials
 
+- [Crystal Mastery](https://www.crystalmastery.io/episodes)
 - [Uploading and Validating Images with Crystal and Lucky on Heroku](https://dev.to/mikeeus/uploading-and-validating-images-with-crystal-and-lucky-on-heroku-13p2)
