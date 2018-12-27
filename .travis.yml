@@ -6,4 +6,6 @@ cache: npm
 before_script:
   - "npm install -g markdown-link-check"
 script:
-  - find . -name \*.md -exec markdown-link-check {} \;
+  - "markdown-link-check ./README.md"
+  - "markdown-link-check ./CONTRIBUTING.md"
+  - "markdown-link-check ./.github/PULL_REQUEST_TEMPLATE.md"
