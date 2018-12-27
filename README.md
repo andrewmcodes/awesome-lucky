@@ -1,4 +1,4 @@
-[![github banner-short](https://github.com/andrewmcodes/awesome-lucky/blob/master/media/banner-portrait.svg)](http://luckyframework.org)
+[![github banner-short](https://github.com/andrewmcodes/awesome-lucky/blob/master/media/banner-portrait.png)](http://luckyframework.org)
 
 <div>
   <p>
