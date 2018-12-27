@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+ - "node"
+ - "6"
+sudo: false
+cache: npm
+before_script:
+  - npm install -g markdown-link-check
+script:
+  - find . -name \*.md -exec markdown-link-check {} \;
