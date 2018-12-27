@@ -16,12 +16,13 @@ Everyone interacting with this project is expected to follow the [code of conduc
 
 # Awesome Lucky on Crystal
 
-- [Awesome Lucky on Crystal](#awesome-lucky-on-crystal)
-  - [Project Pages](#project-pages)
-  - [Blog Posts](#blog-posts)
-  - [Tutorials](#tutorials)
-  - [Lucky Specific Shards](#lucky-specific-shards)
-  - [Community](#community)
+- [Awesome Lucky on Crystal - Contents](#awesome-lucky-on-crystal)
+  - [Project Pages](#page_facing_up-project-pages)
+  - [Blog Posts](#thought_balloon-blog-posts)
+  - [Tutorials](#computer-tutorials)
+  - [Code Samples](#space_invader-code-samples)
+  - [Lucky Shards](#gem-lucky-shards)
+  - [Community](#busts_in_silhouette-community)
 
 ## :page_facing_up: Project Pages
 
@@ -50,7 +51,14 @@ Everyone interacting with this project is expected to follow the [code of conduc
 - [Themeing sites](https://dev.to/jwoertink/themeing-sites-in-lucky-1a4d)
 - [Designing Lucky: Rock Solid Actions & Routing](https://robots.thoughtbot.com/designing-lucky-actions-routing)
 
-## :gem: Lucky Specific Shards
+## :space_invader: Code Samples
+
+- [actions_auth_redirect_if_signed_in.cr](https://gist.github.com/robacarp/ef45825ba665f4f8b46cd78a82dce670)
+- [d simplified.cr](https://gist.github.com/paulcsmith/0b6b0da6a731ee8c3d1712cbb5b2e077)
+- [terse_div_classes.cr](https://gist.github.com/robacarp/926ad19ef839079bd1377afc5dcd5cae)
+- [crystal.cr](https://gist.github.com/paulcsmith/3d1b521e75b2a4e6bffa8a971ad96876)
+
+## :gem: Lucky Shards
 
 - [multi_auth](https://github.com/msa7/multi_auth#lucky-integration-example)
 
