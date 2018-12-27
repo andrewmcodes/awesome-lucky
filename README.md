@@ -1,4 +1,4 @@
-[![github banner-short](https://github.com/andrewmcodes/awesome-lucky/blob/master/media/banner-portrait.svg)](http://luckyframeworks.org)
+[![github banner-short](https://github.com/andrewmcodes/awesome-lucky/blob/master/media/banner-portrait.svg)](http://luckyframework.org)
 
 <div>
   <p>
@@ -22,7 +22,7 @@ If you think a package should be added, please add a :+1: at the according issue
 
 ## Project Pages
 
-- [Github Repo](https://github.com/luckyframework/lucky)
+- [Github Repo](https://github.com/luckyframework/lucsky)
 - [Website](https://luckyframework.org/)
 - [Documentation](https://luckyframework.org/guides/overview/)
 - [Why Lucky](https://luckyframework.org/why-lucky/)
