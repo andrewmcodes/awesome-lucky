@@ -1,33 +1,38 @@
-[![github banner-short](https://user-images.githubusercontent.com/22394/26989908-dd99cc2c-4d22-11e7-9576-c6aeada2bd63.png)](http://luckyframework.org)
+[![github banner-short](/media/banner-portrait.svg)](http://luckyframework.org)
+
+<div>
+  <p>
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+  </p>
+</div>
 
 # Awesome Lucky on Crystal
 
 A categorized community-driven collection of awesome Lucky libraries, tools, resources.
 
-## Contents
+If you think a package should be added, please add a :+1: at the according issue or create a new one.
 
-- [Awesome Lucky on Crystal](#awesome-lucky-on-crystal)
-- [Project Page](#project-page)
-- [Blog Posts](#blog-posts)
-- [Paul Smith](#paul-smith)
-- [Tutorials](#tutorials)
+- [Contents](#awesome-lucky-on-crystal)
+  - [Project Pages](#project-pages)
+  - [Blog Posts](#blog-posts)
+  - [Tutorials](#tutorials)
+  - [Lucky Shards](#lucky-shards)
+  - [Community](#community)
 
-# Project Pages
+## Project Pages
 
 - [Github Repo](https://github.com/luckyframework/lucky)
 - [Website](https://luckyframework.org/)
+- [Documentation](https://luckyframework.org/guides/overview/)
+- [Why Lucky](https://luckyframework.org/why-lucky/)
 
-# Blog Posts
+## Blog Posts
 
 - [Lucky, an experimental new web framework by thoughtbot](https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot)
 - [Ruby on Rails to Lucky on Crystal](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
-
-# Paul Smith
-
-- [Github Profile](https://github.com/paulcsmith)
 - [Paul Smith on Medium](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
 
-# Tutorials
+## Tutorials
 
 - [Crystal Mastery](https://www.crystalmastery.io/episodes)
 - [Uploading and Validating Images with Crystal and Lucky on Heroku](https://dev.to/mikeeus/uploading-and-validating-images-with-crystal-and-lucky-on-heroku-13p2)
@@ -41,6 +46,10 @@ A categorized community-driven collection of awesome Lucky libraries, tools, res
 - [Themeing sites](https://dev.to/jwoertink/themeing-sites-in-lucky-1a4d)
 - [Designing Lucky: Rock Solid Actions & Routing](https://robots.thoughtbot.com/designing-lucky-actions-routing)
 
-# Shards
+## Lucky Shards
 
 - [multi_auth](https://github.com/msa7/multi_auth#lucky-integration-example)
+
+## Community
+
+- [Gitter](https://gitter.im/luckyframework/Lobby)
