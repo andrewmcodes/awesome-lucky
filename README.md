@@ -7,33 +7,36 @@
   </p>
 </div>
 
-# Awesome Lucky on Crystal
-
 A categorized community-driven collection of awesome Lucky libraries, tools, resources.
 
-If you think a package should be added, please add a :+1: at the according issue or create a new one.
+We encourage you to contribute to Awesome Lucky! Please check out the
+[contributing guide](https://github.com/andrewmcodes/awesome-lucky/blob/master/CONTRIBUTING.md) for guidelines about how to proceed.
 
-- [Contents](#awesome-lucky-on-crystal)
+Everyone interacting with this project is expected to follow the [code of conduct](https://github.com/andrewmcodes/awesome-lucky/blob/master/CODE_OF_CONDUCT.md).
+
+# Awesome Lucky on Crystal
+
+- [Awesome Lucky on Crystal](#awesome-lucky-on-crystal)
   - [Project Pages](#project-pages)
   - [Blog Posts](#blog-posts)
   - [Tutorials](#tutorials)
-  - [Lucky Shards](#lucky-shards)
+  - [Lucky Specific Shards](#lucky-specific-shards)
   - [Community](#community)
 
-## Project Pages
+## :page_facing_up: Project Pages
 
 - [Github Repo](https://github.com/luckyframework/lucky)
 - [Website](https://luckyframework.org/)
 - [Documentation](https://luckyframework.org/guides/overview/)
 - [Why Lucky](https://luckyframework.org/why-lucky/)
 
-## Blog Posts
+## :thought_balloon: Blog Posts
 
 - [Lucky, an experimental new web framework by thoughtbot](https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot)
 - [Ruby on Rails to Lucky on Crystal](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
 - [Paul Smith on Medium](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
 
-## Tutorials
+## :computer: Tutorials
 
 - [Crystal Mastery](https://www.crystalmastery.io/episodes)
 - [Uploading and Validating Images with Crystal and Lucky on Heroku](https://dev.to/mikeeus/uploading-and-validating-images-with-crystal-and-lucky-on-heroku-13p2)
@@ -47,10 +50,10 @@ If you think a package should be added, please add a :+1: at the according issue
 - [Themeing sites](https://dev.to/jwoertink/themeing-sites-in-lucky-1a4d)
 - [Designing Lucky: Rock Solid Actions & Routing](https://robots.thoughtbot.com/designing-lucky-actions-routing)
 
-## Lucky Shards
+## :gem: Lucky Specific Shards
 
 - [multi_auth](https://github.com/msa7/multi_auth#lucky-integration-example)
 
-## Community
+## :busts_in_silhouette: Community
 
 - [Gitter](https://gitter.im/luckyframework/Lobby)
