@@ -25,7 +25,7 @@ If you think a package should be added, please add a :+1: at the according issue
 - [Github Repo](https://github.com/luckyframework/lucky)
 - [Website](https://luckyframework.org/)
 - [Documentation](https://luckyframework.org/guides/overview/)
-- [Why Lucky](https://luckyframewwork.org/why-lucky/)
+- [Why Lucky](https://luckyframework.org/why-lucky/)
 
 ## Blog Posts
 

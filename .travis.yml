@@ -2,7 +2,6 @@ sudo: false
 language: node_js
 node_js:
   - "stable"
-cache: npm
 before_script:
   - "npm install -g markdown-link-check"
 script:
@@ -10,5 +9,9 @@ script:
   - "markdown-link-check ./CONTRIBUTING.md"
   - "markdown-link-check ./.github/PULL_REQUEST_TEMPLATE.md"
 notifications:
-    webhooks: https://www.travisbuddy.com/
+  webhooks:
     on_success: never
+    urls:
+      - "https://www.travisbuddy.com/?insertMode=update"
+travisBuddy:
+  insertMode: update
