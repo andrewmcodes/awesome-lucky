@@ -1,4 +1,4 @@
-# :rotating_light: Broken links are present :rotating_light:
+# Broken links are present
 
 It looks like some of the links you tried to add in this PR are broken.
 
