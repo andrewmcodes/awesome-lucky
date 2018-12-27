@@ -10,8 +10,8 @@ script:
   - "markdown-link-check ./.github/PULL_REQUEST_TEMPLATE.md"
 notifications:
   webhooks:
-    on_success: never
     urls:
-      - "https://www.travisbuddy.com/?insertMode=update"
+      - https://www.travisbuddy.com/
+    on_success: never
 travisBuddy:
-  insertMode: update
+    regex: "(\[\✖].*)"
