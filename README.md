@@ -17,13 +17,13 @@ If you think a package should be added, please add a :+1: at the according issue
   - [Project Pages](#project-pages)
   - [Blog Posts](#blog-posts)
   - [Tutorials](#tutorials)
-  - [Lucky Shards](#lucky-sShards)
+  - [Lucky Shards](#lucky-shards)
   - [Community](#community)
 
 ## Project Pages
 
 - [Github Repo](https://github.com/luckyframework/lucky)
-- [Website](https://luckyframework.org/)
+- [Website](https://luckyfxramework.org/)
 - [Documentation](https://luckyframework.org/guides/overview/)
 - [Why Lucky](https://luckyframework.org/why-lucky/)
 
