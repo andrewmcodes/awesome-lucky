@@ -22,8 +22,8 @@ If you think a package should be added, please add a :+1: at the according issue
 
 ## Project Pages
 
-- [Github Repo](https://github.com/luckyframework/lucsky)
-- [Website](https://luckyframework.org/)
+- [Github Repo](https://github.com/luckyframework/lucky)
+- [Website](https://luckyframsework.org/)
 - [Documentation](https://luckyframework.org/guides/overview/)
 - [Why Lucky](https://luckyframework.org/why-lucky/)
 
