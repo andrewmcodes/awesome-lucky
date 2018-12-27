@@ -13,3 +13,6 @@ notifications:
     urls:
       - https://www.travisbuddy.com/
     on_success: never
+travisBuddy:
+  regex: "(\\[✖].*)"
+  regexOptions: g
