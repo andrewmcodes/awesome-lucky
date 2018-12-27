@@ -2,9 +2,11 @@
 
 Thanks for taking the time to contribute :+1:
 
-The following is a set of guidelines for contributing to Awesome Lucky. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this project.
+The following is a set of guidelines for contributing to Awesome Lucky. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this project. Also, please read our [code of conduct](https://github.com/andrewmcodes/awesome-lucky/blob/master/CODE_OF_CONDUCT.md) prior to submitting an issue or pull request.
 
-## How Can I Contribute?
+Thanks! :heart:
+
+## How Can I Contribute
 
 ### Creating Issues
 

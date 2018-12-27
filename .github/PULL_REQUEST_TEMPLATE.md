@@ -1,17 +1,15 @@
-**Thanks for contributing to Awesome Lucky! Please take a look at the [contribution guidelines and quality standard](https://github.com/andrewmcodes/awesome-lucky/blob/master/CONTRIBUTING.md) first and remove this line.**
+**Thanks for contributing to Awesome Lucky! Please take a look at the [contribution guidelines](https://github.com/andrewmcodes/awesome-lucky/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/andrewmcodes/awesome-lucky/blob/master/CODE_OF_CONDUCT.md) first and remove this line.**
+
+---
 
 ## Project
 
 Title and urls (GitHub, project page, blog posts, ...).
 
-## What is this Lucky project?
+## What is this
 
 Describe features.
 
-## What are the main difference between this Lucky project and similar ones?
+## Why should this be added
 
-Enumerate comparisons.
-
----
-
-Please help us to maintain this collection by using reactions (:+1:, :-1:) and comments to express your feelings.
+Explain value.
