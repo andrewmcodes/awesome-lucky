@@ -60,6 +60,8 @@ Everyone interacting with this project is expected to follow the [code of conduc
 
 ## :gem: Lucky Shards
 
+- [lucky-basic-auth](https://github.com/jwoertink/lucky-basic-auth)
+- [lucky-cluster](https://github.com/jwoertink/lucky-cluster)
 - [multi_auth](https://github.com/msa7/multi_auth#lucky-integration-example)
 
 ## :busts_in_silhouette: Community
