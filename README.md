@@ -16,50 +16,51 @@ Everyone interacting with this project is expected to follow the [code of conduc
 
 # Awesome Lucky on Crystal
 
-- [Awesome Lucky on Crystal - Contents](#awesome-lucky-on-crystal)
-  - [Project Pages](#page_facing_up-project-pages)
-  - [Blog Posts](#thought_balloon-blog-posts)
-  - [Tutorials](#computer-tutorials)
-  - [Code Samples](#space_invader-code-samples)
-  - [Lucky Shards](#gem-lucky-shards)
-  - [Community](#busts_in_silhouette-community)
+- [Awesome Lucky on Crystal](#awesome-lucky-on-crystal)
+  - [:page_facing_up: Project Pages](#page_facing_up-project-pages)
+  - [:thought_balloon: Blog Posts](#thought_balloon-blog-posts)
+  - [:computer: Tutorials](#computer-tutorials)
+  - [:space_invader: Code Samples](#space_invader-code-samples)
+  - [:gem: Lucky Shards](#gem-lucky-shards)
+  - [:busts_in_silhouette: Community](#busts_in_silhouette-community)
 
 ## :page_facing_up: Project Pages
 
+- [Documentation](https://luckyframework.org/guides/overview/)
 - [Github Repo](https://github.com/luckyframework/lucky)
 - [Website](https://luckyframework.org/)
-- [Documentation](https://luckyframework.org/guides/overview/)
 - [Why Lucky](https://luckyframework.org/why-lucky/)
 
 ## :thought_balloon: Blog Posts
 
 - [Lucky, an experimental new web framework by thoughtbot](https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot)
-- [Ruby on Rails to Lucky on Crystal](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
 - [Paul Smith on Medium](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
+- [Ruby on Rails to Lucky on Crystal](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
 
 ## :computer: Tutorials
 
 - [Crystal Mastery](https://www.crystalmastery.io/episodes)
-- [Uploading and Validating Images with Crystal and Lucky on Heroku](https://dev.to/mikeeus/uploading-and-validating-images-with-crystal-and-lucky-on-heroku-13p2)
-- [Google OAuth](https://dev.to/jwoertink/google-oauth-with-lucky-5c10)
-- [XML Sitemaps](https://dev.to/jwoertink/xml-sitemaps-with-lucky-2p5g)
-- [React components](https://dev.to/mikeeus/react-components-in-lucky-with-laravel-mix-and-lucky-react-nlb)
-- [Mapping Database Queries to Crystal Classes](https://dev.to/mikeeus/mapping-database-queries-to-crystal-classes-with-crystal-db-and-lucky-460i)
-- [JWT Auth](https://dev.to/mikeeus/jwt-auth-in-lucky-api-if0)
-- [Using Materialized Views as Models](https://dev.to/mikeeus/using-materialized-views-as-models-in-lucky-34ne)
-- [Plain text pages](https://dev.to/jwoertink/plain-text-pages-in-lucky-27ja)
-- [Themeing sites](https://dev.to/jwoertink/themeing-sites-in-lucky-1a4d)
 - [Designing Lucky: Rock Solid Actions & Routing](https://robots.thoughtbot.com/designing-lucky-actions-routing)
+- [Google OAuth](https://dev.to/jwoertink/google-oauth-with-lucky-5c10)
+- [JWT Auth](https://dev.to/mikeeus/jwt-auth-in-lucky-api-if0)
+- [Mapping Database Queries to Crystal Classes](https://dev.to/mikeeus/mapping-database-queries-to-crystal-classes-with-crystal-db-and-lucky-460i)
+- [Plain text pages](https://dev.to/jwoertink/plain-text-pages-in-lucky-27ja)
+- [React components](https://dev.to/mikeeus/react-components-in-lucky-with-laravel-mix-and-lucky-react-nlb)
+- [Themeing sites](https://dev.to/jwoertink/themeing-sites-in-lucky-1a4d)
+- [Uploading and Validating Images with Crystal and Lucky on Heroku](https://dev.to/mikeeus/uploading-and-validating-images-with-crystal-and-lucky-on-heroku-13p2)
+- [Using Materialized Views as Models](https://dev.to/mikeeus/using-materialized-views-as-models-in-lucky-34ne)
+- [XML Sitemaps](https://dev.to/jwoertink/xml-sitemaps-with-lucky-2p5g)
 
 ## :space_invader: Code Samples
 
 - [actions_auth_redirect_if_signed_in.cr](https://gist.github.com/robacarp/ef45825ba665f4f8b46cd78a82dce670)
+- [crystal.cr](https://gist.github.com/paulcsmith/3d1b521e75b2a4e6bffa8a971ad96876)
 - [d simplified.cr](https://gist.github.com/paulcsmith/0b6b0da6a731ee8c3d1712cbb5b2e077)
 - [terse_div_classes.cr](https://gist.github.com/robacarp/926ad19ef839079bd1377afc5dcd5cae)
-- [crystal.cr](https://gist.github.com/paulcsmith/3d1b521e75b2a4e6bffa8a971ad96876)
 
 ## :gem: Lucky Shards
 
+- [carbon_smtp_adapter](https://github.com/oneiros/carbon_smtp_adapter)
 - [lucky-basic-auth](https://github.com/jwoertink/lucky-basic-auth)
 - [lucky-cluster](https://github.com/jwoertink/lucky-cluster)
 - [multi_auth](https://github.com/msa7/multi_auth#lucky-integration-example)
