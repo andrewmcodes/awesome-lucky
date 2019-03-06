@@ -50,6 +50,7 @@ Everyone interacting with this project is expected to follow the [code of conduc
 - [Uploading and Validating Images with Crystal and Lucky on Heroku](https://dev.to/mikeeus/uploading-and-validating-images-with-crystal-and-lucky-on-heroku-13p2)
 - [Using Materialized Views as Models](https://dev.to/mikeeus/using-materialized-views-as-models-in-lucky-34ne)
 - [XML Sitemaps](https://dev.to/jwoertink/xml-sitemaps-with-lucky-2p5g)
+- [Background jobs with Lucky and mosquito](https://dev.to/jwoertink/background-jobs-with-lucky-543p)
 
 ## :space_invader: Code Samples
 
