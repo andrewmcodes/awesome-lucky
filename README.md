@@ -21,6 +21,7 @@ Everyone interacting with this project is expected to follow the [code of conduc
   - [:thought_balloon: Blog Posts](#thought_balloon-blog-posts)
   - [:computer: Tutorials](#computer-tutorials)
   - [:space_invader: Code Samples](#space_invader-code-samples)
+  - [:mag: Example Projects](#mag-example-projects)
   - [:gem: Lucky Shards](#gem-lucky-shards)
   - [:busts_in_silhouette: Community](#busts_in_silhouette-community)
 
@@ -58,6 +59,11 @@ Everyone interacting with this project is expected to follow the [code of conduc
 - [crystal.cr](https://gist.github.com/paulcsmith/3d1b521e75b2a4e6bffa8a971ad96876)
 - [d simplified.cr](https://gist.github.com/paulcsmith/0b6b0da6a731ee8c3d1712cbb5b2e077)
 - [terse_div_classes.cr](https://gist.github.com/robacarp/926ad19ef839079bd1377afc5dcd5cae)
+
+## :mag: Example Projects
+
+- [The lucky website](https://github.com/luckyframework/website)
+- [lucky_bits - A site for link sharing in small groups](https://github.com/edwardloveall/lucky_bits)
 
 ## :gem: Lucky Shards
 
