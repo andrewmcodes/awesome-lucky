@@ -64,6 +64,7 @@ Everyone interacting with this project is expected to follow the [code of conduc
 
 - [The lucky website](https://github.com/luckyframework/website)
 - [lucky_bits - A site for link sharing in small groups](https://github.com/edwardloveall/lucky_bits)
+- [Read Rust] - https://github.com/wezm/read-rust/tree/master/crystal
 
 ## :gem: Lucky Shards
 
