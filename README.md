@@ -72,6 +72,7 @@ Everyone interacting with this project is expected to follow the [code of conduc
 - [lucky-cluster](https://github.com/jwoertink/lucky-cluster)
 - [multi_auth](https://github.com/msa7/multi_auth#lucky-integration-example)
 - [Have I Been Pwned Validator](https://github.com/watzon/lucky_have_i_been_pwned_validator)
+- [lucky_encrypted](https://github.com/microgit-com/lucky_encrypted) easily encrypt/decrypt database columns
 
 ## :busts_in_silhouette: Community
 
