@@ -70,6 +70,7 @@ Everyone interacting with this project is expected to follow the [code of conduc
 
 - [carbon_smtp_adapter](https://github.com/oneiros/carbon_smtp_adapter)
 - [lucky-basic-auth](https://github.com/jwoertink/lucky-basic-auth)
+- [avram_slugify](https://github.com/luckyframework/avram_slugify)
 - [lucky-cluster](https://github.com/jwoertink/lucky-cluster)
 - [multi_auth](https://github.com/msa7/multi_auth#lucky-integration-example)
 - [Have I Been Pwned Validator](https://github.com/watzon/lucky_have_i_been_pwned_validator)
