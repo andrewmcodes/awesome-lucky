@@ -38,6 +38,10 @@ Everyone interacting with this project is expected to follow the [code of conduc
 - [Paul Smith on Medium](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
 - [Ruby on Rails to Lucky on Crystal](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)
 
+## :wrench: Tools
+
+- [LuckyDiff](https://luckydiff.com) - Compare generated apps between Lucky versions.
+
 ## :computer: Tutorials
 
 - [Crystal Mastery](https://www.crystalmastery.io/episodes)
