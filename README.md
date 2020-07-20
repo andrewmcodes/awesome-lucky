@@ -1,18 +1,18 @@
-[![github banner-short](https://github.com/andrewmcodes/awesome-lucky/blob/master/media/banner-portrait.png)](http://luckyframework.org)
+[![github banner-short](https://github.com/andrewmcodes/awesome-lucky/blob/main/media/banner-portrait.png)](http://luckyframework.org)
 
 <div>
   <p>
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-    <a href="https://travis-ci.org/andrewmcodes/awesome-lucky"><img src="https://travis-ci.org/andrewmcodes/awesome-lucky.svg?branch=master"></a>
+    <a href="https://travis-ci.org/andrewmcodes/awesome-lucky"><img src="https://travis-ci.org/andrewmcodes/awesome-lucky.svg?branch=main"></a>
   </p>
 </div>
 
 A categorized community-driven collection of awesome Lucky libraries, tools, resources.
 
 We encourage you to contribute to Awesome Lucky! Please check out the
-[contributing guide](https://github.com/andrewmcodes/awesome-lucky/blob/master/CONTRIBUTING.md) for guidelines about how to proceed.
+[contributing guide](https://github.com/andrewmcodes/awesome-lucky/blob/main/CONTRIBUTING.md) for guidelines about how to proceed.
 
-Everyone interacting with this project is expected to follow the [code of conduct](https://github.com/andrewmcodes/awesome-lucky/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting with this project is expected to follow the [code of conduct](https://github.com/andrewmcodes/awesome-lucky/blob/main/CODE_OF_CONDUCT.md).
 
 # Awesome Lucky on Crystal
 
