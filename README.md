@@ -80,6 +80,7 @@ Everyone interacting with this project is expected to follow the [code of conduc
 - [Have I Been Pwned Validator](https://github.com/watzon/lucky_have_i_been_pwned_validator)
 - [lucky_encrypted](https://github.com/microgit-com/lucky_encrypted) easily encrypt/decrypt database columns
 - [lucky_svg_sprite](https://github.com/tilishop/lucky_svg_sprite.cr) mount SVG icons with ease
+- [Shield](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework.
 
 ## :busts_in_silhouette: Community
 
