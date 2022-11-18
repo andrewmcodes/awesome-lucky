@@ -1,29 +1,19 @@
+
+> **Warning**
+> Lucky now has it's own [Awesome page built directly into the project's website!](https://www.luckyframework.org/awesome) Due to this enhancement, **this repo has been archived** and you are encouraged to submit new awesome things over there!
+
+
 [![github banner-short](https://github.com/andrewmcodes/awesome-lucky/blob/main/media/banner-portrait.png)](http://luckyframework.org)
 
 <div>
   <p>
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-    <a href="https://travis-ci.org/andrewmcodes/awesome-lucky"><img src="https://travis-ci.org/andrewmcodes/awesome-lucky.svg?branch=main"></a>
   </p>
 </div>
 
-A categorized community-driven collection of awesome Lucky libraries, tools, resources.
+A categorized community-driven collection of awesome Lucky libraries, tools, resources [that is now hosted on Lucky's website!](https://www.luckyframework.org/awesome)
 
-We encourage you to contribute to Awesome Lucky! Please check out the
-[contributing guide](https://github.com/andrewmcodes/awesome-lucky/blob/main/CONTRIBUTING.md) for guidelines about how to proceed.
-
-Everyone interacting with this project is expected to follow the [code of conduct](https://github.com/andrewmcodes/awesome-lucky/blob/main/CODE_OF_CONDUCT.md).
-
-# Awesome Lucky on Crystal
-
-- [Awesome Lucky on Crystal](#awesome-lucky-on-crystal)
-  - [:page_facing_up: Project Pages](#page_facing_up-project-pages)
-  - [:thought_balloon: Blog Posts](#thought_balloon-blog-posts)
-  - [:computer: Tutorials](#computer-tutorials)
-  - [:space_invader: Code Samples](#space_invader-code-samples)
-  - [:mag: Example Projects](#mag-example-projects)
-  - [:gem: Lucky Shards](#gem-lucky-shards)
-  - [:busts_in_silhouette: Community](#busts_in_silhouette-community)
+# [Archived] Awesome Lucky on Crystal
 
 ## :page_facing_up: Project Pages
 
